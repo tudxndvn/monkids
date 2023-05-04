@@ -1,189 +1,106 @@
-# Landing Page Template built with Next JS 12+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+<h1 align=center>Bigspring Light Nextjs</h1> 
+<p align=center>Bigspring is a web development business template built in Nextjs. Perfect for Creative Agency, Marketing Agency, Design Studios, Digital Marketing Agencies, and other business service websites.</p>
+<h2 align="center"> <a target="_blank" href="https://bigspring-light-nextjs.vercel.app/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fbigspring-light-nextjs.vercel.app%2F&form_factor=desktop">Page Speed (100%)</a>
+</h2>
 
-<p align="center">
-  <a href="https://creativedesignsguru.com/demo/nextjs-landing-page/"><img src="public/assets/images/nextjs-landing-page-banner.png?raw=true" alt="Next js starter banner"></a>
+
+
+<p align=center>
+  <a href="https://github.com/vercel/next.js/releases/tag/v13.0.6" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=NEXTJS&message=13.0&color=000&logo=nextjs" />
+  </a>
+
+  <a href="https://github.com/themefisher/bigspring-light-nextjs/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/themefisher/bigspring-light-nextjs" alt="license"></a>
+
+  <img src="https://img.shields.io/github/languages/code-size/themefisher/bigspring-light-nextjs" alt="code size">
+
+  <a href="https://github.com/themefisher/bigspring-light-nextjs/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/themefisher/bigspring-light-nextjs" alt="contributors"></a>
 </p>
 
-🚀 Landing Page theme written in Next.js, Tailwind CSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, VSCode, Netlify, PostCSS, Tailwind CSS.
+![bigspring-light](https://demo.gethugothemes.com/thumbnails/bigspring-light.png)
+👉🏻[View Live Preview](https://bigspring-light-nextjs.vercel.app/)
 
-Clone this project and use it to create your own [Next.js](https://nextjs.org) project. You can check a [Next js templates demo](https://creativedesignsguru.com/demo/nextjs-landing-page/).
+<!-- download -->
+## Download
 
-### DEMO
+Download this template from [Github](https://github.com/themefisher/bigspring-light-nextjs/archive/main.zip)
 
-[![Nextjs Landing Page Template Screenshot](public/assets/images/nextjs-landing-page-screenshot.png?raw=true)](https://creativedesignsguru.com/demo/nextjs-landing-page/)
+## Key Features
+- Simple and Minimal
+- Fully Responsive
+- Google Page Speed score 100! (Desktop)
+- Google analytics support
+- Caching enabled
+- Supports Contact Form
+- SEO Friendly
+<!-- installation -->
+## Installation
 
-Check out our [live demo](https://creativedesignsguru.com/demo/nextjs-landing-page/).
+After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
 
-### Features
+### Install prerequisites (once for a machine)
 
-Developer experience first:
+* **Node Installation:** [Install node js](https://nodejs.org/en/download/) [Recommended LTS version]
 
-- 🔥 [Next.js](https://nextjs.org) for Static Site Generator
-- 🎨 Integrate with [Tailwind CSS](https://tailwindcss.com)
-- 💅 PostCSS for processing Tailwind CSS and integrated to `styled-jsx`
-- 🎉 Type checking [TypeScript](https://www.typescriptlang.org)
-- ✅ Strict Mode for TypeScript and React 17
-- ✏️ Linter with [ESLint](https://eslint.org) (default NextJS, NextJS Core Web Vitals and Airbnb configuration)
-- 🛠 Code Formatter with [Prettier](https://prettier.io)
-- 🦊 Husky for Git Hooks
-- 🚫 Lint-staged for running linters on Git staged files
-- 🗂 VSCode configuration: Debug, Settings, Tasks and extension for PostCSS, ESLint, Prettier, TypeScript
-- 🤖 SEO metadata, JSON-LD and Open Graph tags with Next SEO
-- ⚙️ [Bundler Analyzer](https://www.npmjs.com/package/@next/bundle-analyzer)
-- 🖱️ One click deployment with Vercel or Netlify (or manual deployment to any hosting services)
-- 🌈 Include a FREE theme
-- 💯 Maximize lighthouse score
+### Local setup
 
-Built-in feature from Next.js:
+After successfully installing those dependencies, open this template with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
 
-- ☕ Minify HTML & CSS
-- 💨 Live reload
-- ✅ Cache busting
-
-### Included Components
-
-- Navbar
-- Hero
-- Features
-- CTA banner
-- Footer
-
-Find more components in our [premium NextJS themes](https://creativedesignsguru.com/category/nextjs/).
-
-### Philosophy
-
-- Minimal code
-- SEO-friendly
-- 🚀 Production-ready
-
-### Nextless.js SaaS Boilerplate
-
-Build your SaaS product faster with [React SaaS Boilerplate](https://nextlessjs.com).
-
-[![React SaaS Boilerplate Next.js](https://creativedesignsguru.com/assets/images/themes/next-js-saas-starter-kit.jpg)](https://nextlessjs.com)
-
-### Premium Themes
-
-| [Green Nextjs Landing Page Template](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/) | [Purple Saas Nextjs Theme](https://creativedesignsguru.com/landing-purple-modern-react-theme/) |
-| --- | --- |
-| [![Green Nextjs Landing Page Template](https://creativedesignsguru.com/assets/images/themes/landing-green-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-green-modern-nextjs-theme/) | [![Blue Landing Page Nextjs Theme](https://creativedesignsguru.com/assets/images/themes/landing-blue-modern-nextjs-theme-xs.png)](https://creativedesignsguru.com/landing-blue-modern-react-theme/) |
-
-Find more [Nextjs Templates](https://creativedesignsguru.com/category/nextjs/).
-
-### Requirements
-
-- Node.js and npm
-
-### Getting started
-
-Run the following command on your local environment:
+* Install dependencies
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template.git my-project-name
-cd my-project-name
 npm install
 ```
 
-Then, you can run locally in development mode with live reload:
+* Run locally
 
 ```
 npm run dev
 ```
 
-Open http://localhost:3000 with your favorite browser to see your project. For your information, Next JS need to take some time to compile the project for your first time.
+After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live-reload the browser when changes are saved.
+
+## Production Build
+
+After finishing all the customization, you can create a production build by running this command.
 
 ```
-.
-├── README.md            # README file
-├── next.config.js       # Next JS configuration
-├── public               # Public folder
-│   └── assets
-│       └── images       # Image used by default template
-├── src
-│   ├── background       # Atomic background component
-│   ├── button           # Atomic button component
-│   ├── cta              # Atomic cta component
-│   ├── feature          # Atomic feature component
-│   ├── footer           # Atomic footer component
-│   ├── hero             # Atomic hero component
-│   ├── layout           # Atomic layout component
-│   ├── navigation       # Atomic navigation component
-│   ├── pages            # Next JS pages
-│   ├── styles           # PostCSS style folder with Tailwind
-│   ├── templates        # Default template
-│   └── utils            # Utility folder
-├── tailwind.config.js   # Tailwind CSS configuration
-└── tsconfig.json        # TypeScript configuration
+npm run build
 ```
 
-### Customization
+<!-- reporting issue -->
+## Reporting Issues
 
-You can easily configure the theme. Please change the following file:
+We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/themefisher/bigspring-light-nextjs/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/bigspring-light-nextjs/issues).
 
-- `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` and `public/favicon-32x32.png`: your favicon, you can generate from https://favicon.io/favicon-converter/
-- `src/styles/global.css`: your CSS file using Tailwind CSS
-- `utils/AppConfig.ts`: configuration file
-- `src/pages/index.tsx`: the index page of the theme that uses the `Base` component
-- `src/template/Base.tsx`: the `Base` component using component blocks
-- `src/templates/*`: the list of component blocks
-- `src/*`: other folders in src are the atomic components used by components blocks
+<!-- support -->
+## Technical Support or Questions (Paid)
 
-Here is the layer:
+If you have questions or need help integrating the product please [contact us](https://themefisher.com/contact) instead of opening an issue.
 
-- the entry point: `index.tsx` in `src/pages`
-- the `Base` template: `Base.tsx` in `src/templates`
-- use component blocks from `src/templates/*`
-- use atomic components from `src/*`
+<!-- licence -->
+## License
 
-### Deploy to production
+Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
 
-You can see the results locally in production mode with:
+**Code License:** Released under the [MIT](https://github.com/themefisher/bigspring-light-nextjs/blob/main/LICENSE) license.
 
-```
-$ npm run build
-$ npm run start
-```
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
 
-The generated HTML and CSS files are minified (built-in feature from Next js). It will also removed unused CSS from [Tailwind CSS](https://tailwindcss.com).
+## Hire Us
 
-You can create an optimized production build with:
+Besides developing unique, blazing-fast Nextjs templates, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Nextjs.
 
-```
-npm run build-prod
-```
+If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our
+[Contact Page](https://themefisher.com/contact)**
 
-Now, your theme is ready to be deployed. All generated files are located at `out` folder, which you can deploy with any hosting service.
+## Nextjs Templates By Us
 
-### Deploy to Netlify
+<a href="https://themefisher.com/products/bookworm-light-nextjs">
+<img src="https://demo.gethugothemes.com/thumbnails/bookworm.png" height="300" width="400"/>
+<p>Bookworm Light Nextjs</p>
+</a>
 
-Clone this repository on own GitHub account and deploy to Netlify:
-
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)
-
-### Deploy to Vercel
-
-Deploy this Next JS Boilerplate on Vercel in one click:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fixartz%2FNext-JS-Landing-Page-Starter-Template)
-
-### VSCode information (optional)
-
-If you are VSCode users, you can have a better integration with VSCode by installing the suggested extension in `.vscode/extension.json`. The starter code comes up with Settings for a seamless integration with VSCode. The Debug configuration is also provided for frontend and backend debugging experience.
-
-Pro tips: if you need a project wide type checking with TypeScript, you can run a build with <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd> on Mac.
-
-### Contributions
-
-Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
-
-### License
-
-Licensed under the MIT License, Copyright © 2022
-
-See [LICENSE](LICENSE) for more information.
-
----
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://www.buymeacoffee.com/ixartz)
