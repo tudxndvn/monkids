@@ -51,9 +51,9 @@ const Contact = ({ data }) => {
                   placeholder="Your message"
                 />
               </div>
-              <button type="submit" className="btn btn-primary">
+              <div className="btn btn-primary">
                 Send Now
-              </button>
+              </div>
             </form>
           </div>
           <div className="content col-12 md:col-6 lg:col-5">
