@@ -161,7 +161,7 @@ module.exports = require("react/jsx-dev-runtime");
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"site":{"title":"Bigspring Light Nextjs","base_url":"/","favicon":"/images/favicon.png","logo":"/images/logo.png","logo_width":"200","logo_height":"48","logo_text":"Bigspring Light"},"settings":{"pagination":4,"summary_length":200,"blog_folder":"blogs"},"nav_button":{"enable":true,"label":"Get Started","link":"/contact"},"params":{"contact_form_action":"","tag_manager_id":"","footer_content":"Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.","copyright":"Designed and Developed By [Themefisher](https://themefisher.com/)"},"metadata":{"meta_author":"Themefisher","meta_image":"","meta_description":"A SAAS template for nextjs"}}');
+module.exports = JSON.parse('{"site":{"title":"Monkids Studio | Classic and puzzle games","base_url":"/","favicon":"/images/favicon.png","logo":"/images/logo.png","logo_width":"200","logo_height":"48","logo_text":"Monkids Studio"},"settings":{"pagination":4,"summary_length":200,"blog_folder":"blogs"},"nav_button":{"enable":true,"label":"Get Started","link":"/contact"},"params":{"contact_form_action":"","tag_manager_id":"","footer_content":"Monkids Studio is world’s #1 Puzzle Game Publisher with 1.0 Million plus downloads. Be our comrade to build the best interactive puzzle ecosystem!","copyright":"© 2021 Monkids Studio. All Rights Reserved."},"metadata":{"meta_author":"Monkids Studio","meta_image":"","meta_description":"Monkids Studio | Classic and puzzle games"}}');
 
 /***/ })
 
