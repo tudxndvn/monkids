@@ -30,6 +30,36 @@ feature:
     icon: "/images/cloud.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
+# product
+product: 
+  title: Play our hit games
+  content: Discover the awesome games we built with our passion. We are constantly making our games so you will be entertained for your lifetime!
+  products:
+  - name: "Merge Number Cube: Fam Run"
+    icon: "/images/p1.png"
+    url: "https://play.google.com/store/apps/details?id=com.xd.craft.ender.monster"
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+  - name: "Merge Number Cube: Fam Run"
+    icon: "/images/p1.png"
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    url: "https://play.google.com/store/apps/details?id=com.xd.craft.ender.monster"
+  - name: "Merge Number Cube: Fam Run"
+    icon: "/images/p1.png"
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    url: "https://play.google.com/store/apps/details?id=com.xd.craft.ender.monster"
+  - name: "Merge Number Cube: Fam Run"
+    icon: "/images/p1.png"
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    url: "https://play.google.com/store/apps/details?id=com.xd.craft.ender.monster"
+  - name: "Merge Number Cube: Fam Run"
+    icon: "/images/p1.png"
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    url: "https://play.google.com/store/apps/details?id=com.xd.craft.ender.monster"
+  - name: "Merge Number Cube: Fam Run"
+    icon: "/images/p1.png"
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    url: "https://play.google.com/store/apps/details?id=com.xd.craft.ender.monster"
+
 # services
 services:
   - title: "It is the most advanced digital marketing and it company."
@@ -83,7 +113,7 @@ workflow:
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: We are the best partner to take your game global.
   image: '/images/cta.svg'
   button:
     enable: true

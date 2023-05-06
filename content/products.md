@@ -44,7 +44,7 @@ plans:
 
 call_to_action:
   title: Need a larger plan?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: We are the best partner to take your game global.
   image: '/images/cta.svg'
   button:
     enable: true
