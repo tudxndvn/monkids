@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Cta from "./components/Cta";
 
-function Pricing({ data }) {
+function Products({ data }) {
   const {
     frontmatter: { title, plans, call_to_action },
   } = data;
@@ -54,4 +54,4 @@ function Pricing({ data }) {
   );
 }
 
-export default Pricing;
+export default Products;

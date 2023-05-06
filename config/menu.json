@@ -3,15 +3,18 @@
     {
       "name": "Home",
       "url": "/"
+    }, 
+
+   
+    {
+      "name": "Products",
+      "url": "/products"
     },
     {
-      "name": "Blog",
-      "url": "/blogs"
+      "name": "About us",
+      "url": "/about-us"
     },
-    {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
+
     {
       "name": "Contact",
       "url": "/contact"
@@ -26,29 +29,18 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "About us",
+          "url": "/about-us"
         }
+       
       ]
     },
     {
-      "name": "Product",
+      "name": "Products",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Products",
+          "url": "/products"
         }
       ]
     },

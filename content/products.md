@@ -1,6 +1,6 @@
 ---
-title: Pricing
-layout: pricing
+title: Products
+layout: products
 draft: false
 plans:
 - title: Basic Plan
