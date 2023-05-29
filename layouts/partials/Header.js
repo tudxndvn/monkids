@@ -16,15 +16,17 @@ const Header = () => {
   const [navOpen, setNavOpen] = useState(false);
 
   // logo source
-  const { logo } = config.site;
+  const { logo, base_url } = config.site;
   const { enable, label, link } = config.nav_button;
 
   return (
     <header className="header">
       <nav className="navbar container">
         {/* logo */}
-        <div className="order-0">
-          <Logo src={logo} />
+        <div className="order-0 flex  items-center justify-center">
+          <Logo src={logo}/>
+          <Link
+      href={base_url}><strong className="ml-2 uppercase bold text-black text-xl	">Monkids Studio</strong></Link>
         </div>
 
         {/* navbar toggler */}
