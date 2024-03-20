@@ -4795,3 +4795,91 @@ inmobi.com, bf7c7c73ec1146939dccd08e9954c73d, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 161995, RESELLER, 5d62403b186f2ace
 lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
 eskimi.com,2020000207,RESELLER
+ImproveDigital, 2343, RESELLER
+rubiconproject.com, 26386, RESELLER, 0bfd66d529a55807
+smaato.com, 1100056144, RESELLER, 07bcf65f187117b4
+video.unrulymedia.com, 392157850, RESELLER
+adwmg.com, 100870, DIRECT, c9688a22012618e7
+criteo.com, B-059025, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, RIX2M5, DIRECT, 35d5010d7789b49d
+freewheel.tv, 1604590, RESELLER
+freewheel.tv, 1604595, RESELLER
+Vidoomy.com, 6384344, Direct
+onetag.com, 5d0d72448d8bfb0, DIRECT
+rubiconproject.com, 19652, DIRECT, 0bfd66d529a55807
+onetag.com, 8668c16092f01e8, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
+ssp.e-volution.ai, AJxF6R131a9M6CaTvK, RESELLER
+smartadserver.com, 1247, RESELLER, 060d053dcf45cbf3
+adform.com, 2664, RESELLER, 9f5210a2f0999e32
+richaudience.com,flNoR9ht06,DIRECT
+smartadserver.com,4865,RESELLER
+yeahmobi.com,5135224,DIRECT
+zmaticoo.com,5135224,RESELLER
+adform.com,2688,RESELLER,9f5210a2f0999e32
+adform.com,2967,RESELLER,9f5210a2f0999e32
+admanmedia.com,2027,RESELLER
+adview.com,04154661,RESELLER,1b2cc038a11ea319
+axonix.com,59101,RESELLER,bc385f2b4a87b721
+bidease.com,bidease_seller_28,RESELLER
+bold-win.com,807,RESELLER,71746737d0bab951
+copper6.com,749492,RESELLER
+criteo.com,B-072394,RESELLER,9fac4a4a87c2a44f
+criteo.com,B-072581,RESELLER,9fac4a4a87c2a44f
+flat-ads.com,2196901,RESELLER
+freewheel.tv,1604697,RESELLER
+freewheel.tv,1604716,RESELLER
+lijit.com,224984,RESELLER,fafdf38b16bf6b2b
+lijit.com,483304,RESELLER,fafdf38b16bf6b2b
+lunamedia.io,vaiwtx4prucygk6uuevk13ywmjolbi5yun,RESELLER ,524ecb396915caaf
+pubmatic.com,162270,RESELLER,5d62403b186f2ace
+pubmatic.com,162882,RESELLER,5d62403b186f2ace
+pubmatic.com,163875,RESELLER,5d62403b186f2ace
+rhebus.works,1976779507,RESELLER
+rubiconproject.com,16824,RESELLER,0bfd66d529a55807
+sonobi.com,f23858a5df,RESELLER,d1a215d9eb5aee9e
+themediagrid.com,7MYRZ3,RESELLER,35d5010d7789b49d
+thunder-monetize.com,4977054380,RESELLER
+tredio.io,357a6fdf7642bf815a88822c447d9dc433546,RESELLER
+video.unrulymedia.com,322585001,RESELLER
+video.unrulymedia.com,498216989,RESELLER
+video.unrulymedia.com,819070080,RESELLER
+visiblemeasures.com,1078,RESELLER
+Xapads.com,132485,RESELLER
+yieldlab.net,15465081,RESELLER
+google.com, pub-9465215321995945, DIRECT, f08c47fec0942fa0
+adtonos.com, PUB746859075, DIRECT
+amplifier.audio, PUB746859075, DIRECT
+aceex.io, 1616, RESELLER, b1cf3c874d5c6682
+adform.com, 3062, RESELLER, 9f5210a2f0999e32
+admixer.net, cd05d1eb-e5c3-4d79-a59b-7053ba4cd985, RESELLER
+tritondigital.com, 3245, DIRECT, 19b4454d0b87b58b
+adswizz.com, 3245, RESELLER
+eskimi.com, 2020000534, DIRECT
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+xtrmqb.com, 4512, RESELLER
+opera.com, pub8078048635712, DIRECT, 55a0c5fd61378de3
+smartyads.com, 100097, RESELLER, fd2bde0ff2e62c5d
+smartadserver.com, 4498, RESELLER, 060d053dcf45cbf3
+nobid.io, 22485254660, RESELLER
+Contextweb.com, 562984, RESELLER, 89ff185a4c4e857c
+kelmak.com, 8824, RESELLER, 35jf639akfl3854nh
+almaty-digital.com, a11lm2t1356y7d9i, RESELLER, g2it3241165al22r5
+widesound.io, 10010167, RESELLER, 03facf30f100112b2
+improvedigital.com, 1664, RESELLER
+contextweb.com, 563255, RESELLER, 89ff185a4c4e857c
+152media.info, 152m324, RESELLER
+criteo.com, b-057601, RESELLER, 9fac4a4a87c2a44f
+criteo.com, b-057955, RESELLER, 9fac4a4a87c2a44f
+criteo.com, b-063105, RESELLER, 9fac4a4a87c2a44f
+criteo.com, b-072395, RESELLER, 9fac4a4a87c2a44f
+exchange.admazing.co, am3, RESELLER
+improvedigital, 2343, RESELLER
+sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, ibazay96, RESELLER, d53b998a7bd4ecd2
+themediagrid.com, r28i9j, RESELLER, 35d5010d7789b49d
+themediagrid.com, swh94x, RESELLER, 35d5010d7789b49d
+xapads.com, 117219, RESELLER
+xapads.com, 155860, RESELLER
+pubmatic.com, 163868, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163877, RESELLER, 5d62403b186f2ace
