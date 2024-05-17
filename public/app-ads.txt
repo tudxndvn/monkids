@@ -5220,3 +5220,27 @@ eliteappgrade.com,514554,RESELLER
 lijit.com,502742,RESELLER,fafdf38b16bf6b2b
 contextweb.com,558638,RESELLER,89ff185a4c4e857c
 smartadserver.com,3232,RESELLER,060d053dcf45cbf3
+programmaticx.ai, 6845438, RESELLER
+emittenteeditoriale.it, AJxF6R130a9M6CaTvK, RESELLER
+digitalbloom.it, AJxF6R130a9M6CaTvK, RESELLER
+adform.com, 3164, RESELLER
+adform.com,3119,RESELLER,9f5210a2f0999e32
+freewheel.tv,1590601,RESELLER
+freewheel.tv,1590606,RESELLER
+inmobi.com,9e311c7a68e94888aac7fbb4272381e2,RESELLER
+lijit.com,500520,RESELLER,fafdf38b16bf6b2b
+lijit.com,503707,RESELLER,fafdf38b16bf6b2b
+loopme.com,11362,RESELLER,6c8d5f95897a5a3b
+rhebus.works,9176497567,RESELLER
+smaato.com,1100056110,RESELLER,07bcf65f187117b4
+smartadserver.com,4284,RESELLER
+themediagrid.com,DY1OVP,RESELLER,35d5010d7789b49d
+video.unrulymedia.com,169764768,RESELLER
+yieldmo.com,2754490424016969782,RESELLER
+playdigo.com, 1993, RESELLER
+pubnative.net,1009098,RESELLER,d641df8625486a7b
+pubnative.net,1009099,RESELLER,d641df8625486a7b
+blueseasx.com, 203596, DIRECT, 7998eac5087f6110
+imds.tv,AM1601,RESELLER,ae6c32151e71f19d
+media.net,8CU4U5A1W,DIRECT
+adyoulike.com,7463c359225e043c111036d7a29affa5,RESELLER
