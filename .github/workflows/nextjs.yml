@@ -8,6 +8,8 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
+  schedule:
+    - cron: "0 * * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -74,11 +76,11 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       
-      # - name: Fetch latest app-ads.txt
-      #   run: curl -o ./public/app-ads.txt http://52.221.100.74/app-ads.txt
-
       - name: Fetch latest app-ads.txt
-        run: curl -o ./public/test.txt https://checkin-dev.bravestars.com/test.txt
+        run: curl -o ./public/app-ads.txt http://52.221.100.74/app-ads.txt
+
+      # - name: Fetch latest app-ads.txt
+      #   run: curl -o ./public/test.txt https://checkin-dev.bravestars.com/test.txt
 
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
