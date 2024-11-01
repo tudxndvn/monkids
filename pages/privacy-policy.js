@@ -21,8 +21,8 @@ const PrivacyPolicy = ({ frontmatter }) => {
                     <h3 className="mb-4">Privacy Policy</h3>
                     <div className="">
                         <p>Effective date: November 10, 2020</p>
-                        <p>Monkids Studio Pte. Ltd. (“us”, “we”, or “our”)
-                            operates the monkidsstudio.com website and the Monkids Studio’ applications mobile
+                        <p>Unipuzz Studio Pte. Ltd. (“us”, “we”, or “our”)
+                            operates the monkidsstudio.com website and the Unipuzz Studio' applications mobile
                             application (hereinafter referred to as the “Service”).
                         </p>
                         <p>This page informs you of our policies regarding the collection, use and
@@ -38,8 +38,8 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <ul>
                             <li>
                                 <strong>Service</strong>
-                                <p>Service means the Monkids Studio.com website and the Monkids Studio’
-                                    applications mobile application operated by Monkids Studio Pte. Ltd.
+                                <p>Service means the Unipuzz Studio.com website and the Unipuzz Studio'
+                                    applications mobile application operated by Unipuzz Studio Pte. Ltd.
                                 </p>
                             </li>
                             <li>
@@ -115,7 +115,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             Service or when you access the Service by or through a mobile device
                             (“Usage Data”).
                         </p>
-                        <p>This Usage Data may include information such as your computer’s Internet
+                        <p>This Usage Data may include information such as your computer's Internet
                             Protocol address (e.g. IP address), browser type, browser version, the pages of
                             our Service that you visit, the time and date of your visit, the time spent on
                             those pages, unique device identifiers and other diagnostic data.
@@ -163,7 +163,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             </li>
                         </ul>
                         <h4 className="mb-3 mt-3">Use of Data</h4>
-                        <p>Monkids Studio Pte. Ltd. uses the collected data for various purposes:</p>
+                        <p>Unipuzz Studio Pte. Ltd. uses the collected data for various purposes:</p>
                         <ul>
                             <li>To provide and maintain our Service</li>
                             <li>To notify you about changes to our Service</li>
@@ -185,12 +185,12 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <h4 className="mb-3 mt-3">Legal Basis for Processing Personal Data under the General Data Protection
                             Regulation (GDPR)
                         </h4>
-                        <p>If you are from the European Economic Area (EEA), Monkids Studio Pte. Ltd. legal basis
+                        <p>If you are from the European Economic Area (EEA), Unipuzz Studio Pte. Ltd. legal basis
                             for collecting and using the personal information described in this Privacy
                             Policy depends on the Personal Data we collect and the specific context in which
                             we collect it.
                         </p>
-                        <p>Monkids Studio Pte. Ltd. may process your Personal Data because:</p>
+                        <p>Unipuzz Studio Pte. Ltd. may process your Personal Data because:</p>
                         <ul>
                             <li>We need to perform a contract with you</li>
                             <li>You have given us permission to do so</li>
@@ -201,21 +201,21 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             <li>To comply with the law</li>
                         </ul>
                         <h4 className="mb-3 mt-3">Retention of Data</h4>
-                        <p>Monkids Studio Pte. Ltd. will retain your Personal Data only for as long as is
+                        <p>Unipuzz Studio Pte. Ltd. will retain your Personal Data only for as long as is
                             necessary for the purposes set out in this Privacy Policy. We will retain and
                             use your Personal Data to the extent necessary to comply with our legal
                             obligations (for example, if we are required to retain your data to comply with
                             applicable laws), resolve disputes and enforce our legal agreements and
                             policies.
                         </p>
-                        <p>Monkids Studio Pte. Ltd. will also retain Usage Data for internal analysis purposes.
+                        <p>Unipuzz Studio Pte. Ltd. will also retain Usage Data for internal analysis purposes.
                             Usage Data is generally retained for a shorter period of time, except when this
                             data is used to strengthen the security or to improve the functionality of our
                             Service, or we are legally obligated to retain this data for longer periods.
                         </p>
                         <h4 className="mb-3 mt-3">Transfer of Data</h4>
-                        <p>Your information, including Personal Data, may be transferred to – and
-                            maintained on – computers located outside of your state, province, country
+                        <p>Your information, including Personal Data, may be transferred to - and
+                            maintained on - computers located outside of your state, province, country
                             or other governmental jurisdiction where the data protection laws may differ
                             from those of your jurisdiction.
                         </p>
@@ -226,7 +226,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <p>Your consent to this Privacy Policy followed by your submission of such
                             information represents your agreement to that transfer.
                         </p>
-                        <p>Monkids Studio Pte. Ltd. will take all the steps reasonably necessary to ensure that
+                        <p>Unipuzz Studio Pte. Ltd. will take all the steps reasonably necessary to ensure that
                             your data is treated securely and in accordance with this Privacy Policy and no
                             transfer of your Personal Data will take place to an organisation or a country
                             unless there are adequate controls in place including the security of your data
@@ -234,22 +234,22 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         </p>
                         <h4 className="mb-3 mt-3">Disclosure of Data</h4>
                         <h5 className="mb-2 mt-2">Business Transaction</h5>
-                        <p>If Monkids Studio Pte. Ltd. is involved in a merger, acquisition or asset sale, your
+                        <p>If Unipuzz Studio Pte. Ltd. is involved in a merger, acquisition or asset sale, your
                             Personal Data may be transferred. We will provide notice before your Personal
                             Data is transferred and becomes subject to a different Privacy Policy.
                         </p>
                         <h5 className="mb-2 mt-2">Disclosure for Law Enforcement</h5>
-                        <p>Under certain circumstances, Monkids Studio Pte. Ltd. may be required to disclose your
+                        <p>Under certain circumstances, Unipuzz Studio Pte. Ltd. may be required to disclose your
                             Personal Data if required to do so by law or in response to valid requests by
                             public authorities (e.g. a court or a government agency).
                         </p>
                         <h5 className="mb-2 mt-2">Legal Requirements</h5>
-                        <p>Monkids Studio Pte. Ltd. may disclose your Personal Data in the good faith belief that
+                        <p>Unipuzz Studio Pte. Ltd. may disclose your Personal Data in the good faith belief that
                             such action is necessary to:
                         </p>
                         <ul>
                             <li>To comply with a legal obligation</li>
-                            <li>To protect and defend the rights or property of Monkids Studio Pte. Ltd.</li>
+                            <li>To protect and defend the rights or property of Unipuzz Studio Pte. Ltd.</li>
                             <li>To prevent or investigate possible wrongdoing in connection with the Service
                             </li>
                             <li>To protect the personal safety of users of the Service or the public</li>
@@ -274,7 +274,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <h4 className="mb-3 mt-3">Your Data Protection Rights under the General Data Protection Regulation (GDPR)
                         </h4>
                         <p>If you are a resident of the European Economic Area (EEA), you have certain data
-                            protection rights. Monkids Studio Pte. Ltd. aims to take reasonable steps to allow you
+                            protection rights. Unipuzz Studio Pte. Ltd. aims to take reasonable steps to allow you
                             to correct, amend, delete or limit the use of your Personal Data.
                         </p>
                         <p>If you wish to be informed about what Personal Data we hold about you and if you
@@ -302,7 +302,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                 machine-readable and commonly used format.
                             </li>
                             <li><strong>The right to withdraw consent.</strong>&nbsp;You also have the right to
-                                withdraw your consent at any time where Monkids Studio Pte. Ltd. relied on your
+                                withdraw your consent at any time where Unipuzz Studio Pte. Ltd. relied on your
                                 consent to process your personal information.
                             </li>
                         </ul>
@@ -321,7 +321,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <p>These third parties have access to your Personal Data only to perform these tasks
                             on our behalf and are obligated not to disclose or use it for any other purpose.
                         </p>
-                        <p>Learn more about the login process with an email or Facebook connect at Accounts paragraph in <a href="https://static.Monkids Studio.com/terms-of-service/"> Terms and conditions</a>.
+                        <p>Learn more about the login process with an email or Facebook connect at Accounts paragraph in <a href="https://static.MonkidsStudio.com/terms-of-service/"> Terms and conditions</a>.
                         </p>
                         <h4 className="mb-3 mt-3">Analytics</h4>
                         <p>We may use third-party Service Providers to monitor and analyse the use of our
@@ -335,7 +335,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     settings, such as your device advertising settings or by following the
                                     instructions provided by Google in their Privacy Policy:&nbsp;<a href="./privacy?hl=en">https://policies.google.com/privacy?hl=en</a>
                                 </p>
-                                <p>We also encourage you to review the Google’s policy for
+                                <p>We also encourage you to review the Google's policy for
                                     safeguarding your data:&nbsp;<a href="./6004245">https://support.google.com/analytics/answer/6004245</a>.
                                 </p>
                                 <p>For more information on what type of information Firebase collects,
@@ -362,7 +362,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     instructions described by Google:&nbsp;<a href="./2662922?hl=en">https://support.google.com/ads/answer/2662922?hl=en</a>
                                 </p>
                                 <p>For more information on how Google uses the collected information, please
-                                    visit the “How Google uses data when you use our partners’
+                                    visit the “How Google uses data when you use our partners'
                                     sites or app” page:&nbsp;<a href="./partners">http://www.google.com/policies/privacy/partners/</a>&nbsp;or
                                     visit the Privacy Policy of Google:&nbsp;<a href="./privacy">http://www.google.com/policies/privacy/</a>
                                 </p>
@@ -384,10 +384,10 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             <li>
                                 <strong>AppLovin</strong>
                                 <p>AppLovin is provided by the AppLovin Corporation.</p>
-                                <p>If you’d like to opt-out from AppLovin service, please visit the
+                                <p>If you'd like to opt-out from AppLovin service, please visit the
                                     AppLovin Opt-out page:&nbsp;<a href="./optout">https://www.applovin.com/optout</a>
                                 </p>
-                                <p>If you’d like to learn more about AppLovin, please visit the
+                                <p>If you'd like to learn more about AppLovin, please visit the
                                     Privacy Policy page of AppLovin:&nbsp;<a href="./privacy1">https://www.applovin.com/privacy</a>
                                 </p>
                             </li>
@@ -412,7 +412,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             </li>
                         </ul>
                         <h4 className="mb-3 mt-3">Behavioral Remarketing</h4>
-                        <p>Monkids Studio Pte. Ltd. uses remarketing services to advertise on third party websites
+                        <p>Unipuzz Studio Pte. Ltd. uses remarketing services to advertise on third party websites
                             to you after you visited our Service. We and our third-party vendors use cookies
                             to inform, optimise and serve ads based on your past visits to our Service.
                         </p>
@@ -425,7 +425,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     page:&nbsp;<a href="http://www.google.com/settings/ads">http://www.google.com/settings/ads</a>
                                 </p>
                                 <p>Google also recommends installing the Google Analytics Opt-out Browser
-                                    Add-on –&nbsp;<a href="./gaoptout">https://tools.google.com/dlpage/gaoptout</a>&nbsp;–
+                                    Add-on -&nbsp;<a href="./gaoptout">https://tools.google.com/dlpage/gaoptout</a>&nbsp;-
                                     for your web browser. Google Analytics Opt-out Browser Add-on provides
                                     visitors with the ability to prevent their data from being collected and
                                     used by Google Analytics.
@@ -440,7 +440,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                 <p>You can learn more about interest-based advertising from Facebook by
                                     visiting this page:&nbsp;<a href="./164968693837950">https://www.facebook.com/help/164968693837950</a>
                                 </p>
-                                <p>To opt-out from Facebook’s interest-based ads, follow these
+                                <p>To opt-out from Facebook's interest-based ads, follow these
                                     instructions from Facebook:<a href="./568137493302217">https://www.facebook.com/help/568137493302217</a>
                                 </p>
                                 <p>Facebook adheres to the Self-Regulatory Principles for Online Behavioural
@@ -452,7 +452,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     or opt-out using your mobile device settings.
                                 </p>
                                 <p>For more information on the privacy practices of Facebook, please visit
-                                    Facebook’s Data Policy:&nbsp;<a href="./explanation">https://www.facebook.com/privacy/explanation</a>
+                                    Facebook's Data Policy:&nbsp;<a href="./explanation">https://www.facebook.com/privacy/explanation</a>
                                 </p>
                             </li>
                         </ul>
@@ -483,13 +483,13 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         </ul>
                         <h4 className="mb-3 mt-3">Links to Other Sites</h4>
                         <p>Our Service may contain links to other sites that are not operated by us. If you
-                            click a third party link, you will be directed to that third party’s site.
+                            click a third party link, you will be directed to that third party's site.
                             We strongly advise you to review the Privacy Policy of every site you visit.
                         </p>
                         <p>We have no control over and assume no responsibility for the content, privacy
                             policies or practices of any third party sites or services.
                         </p>
-                        <h4 className="mb-3 mt-3">Children’s Privacy</h4>
+                        <h4 className="mb-3 mt-3">Children's Privacy</h4>
                         <p>Our Service does not address anyone under the age of 18 (“Children”).
                         </p>
                         <p>We do not knowingly collect personally identifiable information from anyone under
@@ -510,7 +510,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             Changes to this Privacy Policy are effective when they are posted on this page.
                         </p>
                         <h4 className="mb-3 mt-3">Contact Us</h4>
-                        <p>If you have any questions about this Privacy Policy, would you like to learn more about why, how, and what Personal Data we use, or to request deleting it, please contact us at support@Monkids Studio.com.</p>
+                        <p>If you have any questions about this Privacy Policy, would you like to learn more about why, how, and what Personal Data we use, or to request deleting it, please contact us at support@MonkidsStudio.com.</p>
                     </div>
                 </div>
             </div>
