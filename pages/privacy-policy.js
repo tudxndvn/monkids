@@ -21,7 +21,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                     <h3 className="mb-4">Privacy Policy</h3>
                     <div className="">
                         <p>Effective date: November 10, 2020</p>
-                        <p>Unipuzz Games. (“us”, “we”, or “our”)
+                        <p>Unipuzz Games (“us”, “we”, or “our”)
                             operates the monkidsstudio.com website and the Unipuzz Games’ applications mobile
                             application (hereinafter referred to as the “Service”).
                         </p>
@@ -163,7 +163,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             </li>
                         </ul>
                         <h4 className="mb-3 mt-3">Use of Data</h4>
-                        <p>Unipuzz Games. uses the collected data for various purposes:</p>
+                        <p>Unipuzz Games uses the collected data for various purposes:</p>
                         <ul>
                             <li>To provide and maintain our Service</li>
                             <li>To notify you about changes to our Service</li>
@@ -185,12 +185,12 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <h4 className="mb-3 mt-3">Legal Basis for Processing Personal Data under the General Data Protection
                             Regulation (GDPR)
                         </h4>
-                        <p>If you are from the European Economic Area (EEA), Unipuzz Games. legal basis
+                        <p>If you are from the European Economic Area (EEA), Unipuzz Games legal basis
                             for collecting and using the personal information described in this Privacy
                             Policy depends on the Personal Data we collect and the specific context in which
                             we collect it.
                         </p>
-                        <p>Unipuzz Games. may process your Personal Data because:</p>
+                        <p>Unipuzz Games may process your Personal Data because:</p>
                         <ul>
                             <li>We need to perform a contract with you</li>
                             <li>You have given us permission to do so</li>
@@ -201,14 +201,14 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             <li>To comply with the law</li>
                         </ul>
                         <h4 className="mb-3 mt-3">Retention of Data</h4>
-                        <p>Unipuzz Games. will retain your Personal Data only for as long as is
+                        <p>Unipuzz Games will retain your Personal Data only for as long as is
                             necessary for the purposes set out in this Privacy Policy. We will retain and
                             use your Personal Data to the extent necessary to comply with our legal
                             obligations (for example, if we are required to retain your data to comply with
                             applicable laws), resolve disputes and enforce our legal agreements and
                             policies.
                         </p>
-                        <p>Unipuzz Games. will also retain Usage Data for internal analysis purposes.
+                        <p>Unipuzz Games will also retain Usage Data for internal analysis purposes.
                             Usage Data is generally retained for a shorter period of time, except when this
                             data is used to strengthen the security or to improve the functionality of our
                             Service, or we are legally obligated to retain this data for longer periods.
@@ -226,7 +226,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <p>Your consent to this Privacy Policy followed by your submission of such
                             information represents your agreement to that transfer.
                         </p>
-                        <p>Unipuzz Games. will take all the steps reasonably necessary to ensure that
+                        <p>Unipuzz Games will take all the steps reasonably necessary to ensure that
                             your data is treated securely and in accordance with this Privacy Policy and no
                             transfer of your Personal Data will take place to an organisation or a country
                             unless there are adequate controls in place including the security of your data
@@ -234,22 +234,22 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         </p>
                         <h4 className="mb-3 mt-3">Disclosure of Data</h4>
                         <h5 className="mb-2 mt-2">Business Transaction</h5>
-                        <p>If Unipuzz Games. is involved in a merger, acquisition or asset sale, your
+                        <p>If Unipuzz Games is involved in a merger, acquisition or asset sale, your
                             Personal Data may be transferred. We will provide notice before your Personal
                             Data is transferred and becomes subject to a different Privacy Policy.
                         </p>
                         <h5 className="mb-2 mt-2">Disclosure for Law Enforcement</h5>
-                        <p>Under certain circumstances, Unipuzz Games. may be required to disclose your
+                        <p>Under certain circumstances, Unipuzz Games may be required to disclose your
                             Personal Data if required to do so by law or in response to valid requests by
                             public authorities (e.g. a court or a government agency).
                         </p>
                         <h5 className="mb-2 mt-2">Legal Requirements</h5>
-                        <p>Unipuzz Games. may disclose your Personal Data in the good faith belief that
+                        <p>Unipuzz Games may disclose your Personal Data in the good faith belief that
                             such action is necessary to:
                         </p>
                         <ul>
                             <li>To comply with a legal obligation</li>
-                            <li>To protect and defend the rights or property of Unipuzz Games.</li>
+                            <li>To protect and defend the rights or property of Unipuzz Games</li>
                             <li>To prevent or investigate possible wrongdoing in connection with the Service
                             </li>
                             <li>To protect the personal safety of users of the Service or the public</li>
@@ -274,7 +274,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <h4 className="mb-3 mt-3">Your Data Protection Rights under the General Data Protection Regulation (GDPR)
                         </h4>
                         <p>If you are a resident of the European Economic Area (EEA), you have certain data
-                            protection rights. Unipuzz Games. aims to take reasonable steps to allow you
+                            protection rights. Unipuzz Games aims to take reasonable steps to allow you
                             to correct, amend, delete or limit the use of your Personal Data.
                         </p>
                         <p>If you wish to be informed about what Personal Data we hold about you and if you
@@ -302,7 +302,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                 machine-readable and commonly used format.
                             </li>
                             <li><strong>The right to withdraw consent.</strong>&nbsp;You also have the right to
-                                withdraw your consent at any time where Unipuzz Games. relied on your
+                                withdraw your consent at any time where Unipuzz Games relied on your
                                 consent to process your personal information.
                             </li>
                         </ul>
@@ -412,7 +412,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             </li>
                         </ul>
                         <h4 className="mb-3 mt-3">Behavioral Remarketing</h4>
-                        <p>Unipuzz Games. uses remarketing services to advertise on third party websites
+                        <p>Unipuzz Games uses remarketing services to advertise on third party websites
                             to you after you visited our Service. We and our third-party vendors use cookies
                             to inform, optimise and serve ads based on your past visits to our Service.
                         </p>
