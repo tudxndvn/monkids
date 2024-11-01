@@ -22,7 +22,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                     <div className="">
                         <p>Effective date: November 10, 2020</p>
                         <p>Unipuzz Studio Pte. Ltd. (“us”, “we”, or “our”)
-                            operates the monkidsstudio.com website and the Unipuzz Studio' applications mobile
+                            operates the monkidsstudio.com website and the Unipuzz Studio’ applications mobile
                             application (hereinafter referred to as the “Service”).
                         </p>
                         <p>This page informs you of our policies regarding the collection, use and
@@ -38,7 +38,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <ul>
                             <li>
                                 <strong>Service</strong>
-                                <p>Service means the Unipuzz Studio.com website and the Unipuzz Studio'
+                                <p>Service means the Unipuzz Studio.com website and the Unipuzz Studio’
                                     applications mobile application operated by Unipuzz Studio Pte. Ltd.
                                 </p>
                             </li>
@@ -115,7 +115,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             Service or when you access the Service by or through a mobile device
                             (“Usage Data”).
                         </p>
-                        <p>This Usage Data may include information such as your computer's Internet
+                        <p>This Usage Data may include information such as your computer’s Internet
                             Protocol address (e.g. IP address), browser type, browser version, the pages of
                             our Service that you visit, the time and date of your visit, the time spent on
                             those pages, unique device identifiers and other diagnostic data.
@@ -214,8 +214,8 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             Service, or we are legally obligated to retain this data for longer periods.
                         </p>
                         <h4 className="mb-3 mt-3">Transfer of Data</h4>
-                        <p>Your information, including Personal Data, may be transferred to - and
-                            maintained on - computers located outside of your state, province, country
+                        <p>Your information, including Personal Data, may be transferred to – and
+                            maintained on – computers located outside of your state, province, country
                             or other governmental jurisdiction where the data protection laws may differ
                             from those of your jurisdiction.
                         </p>
@@ -335,7 +335,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     settings, such as your device advertising settings or by following the
                                     instructions provided by Google in their Privacy Policy:&nbsp;<a href="./privacy?hl=en">https://policies.google.com/privacy?hl=en</a>
                                 </p>
-                                <p>We also encourage you to review the Google's policy for
+                                <p>We also encourage you to review the Google’s policy for
                                     safeguarding your data:&nbsp;<a href="./6004245">https://support.google.com/analytics/answer/6004245</a>.
                                 </p>
                                 <p>For more information on what type of information Firebase collects,
@@ -362,7 +362,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     instructions described by Google:&nbsp;<a href="./2662922?hl=en">https://support.google.com/ads/answer/2662922?hl=en</a>
                                 </p>
                                 <p>For more information on how Google uses the collected information, please
-                                    visit the “How Google uses data when you use our partners'
+                                    visit the “How Google uses data when you use our partners’
                                     sites or app” page:&nbsp;<a href="./partners">http://www.google.com/policies/privacy/partners/</a>&nbsp;or
                                     visit the Privacy Policy of Google:&nbsp;<a href="./privacy">http://www.google.com/policies/privacy/</a>
                                 </p>
@@ -384,10 +384,10 @@ const PrivacyPolicy = ({ frontmatter }) => {
                             <li>
                                 <strong>AppLovin</strong>
                                 <p>AppLovin is provided by the AppLovin Corporation.</p>
-                                <p>If you'd like to opt-out from AppLovin service, please visit the
+                                <p>If you’d like to opt-out from AppLovin service, please visit the
                                     AppLovin Opt-out page:&nbsp;<a href="./optout">https://www.applovin.com/optout</a>
                                 </p>
-                                <p>If you'd like to learn more about AppLovin, please visit the
+                                <p>If you’d like to learn more about AppLovin, please visit the
                                     Privacy Policy page of AppLovin:&nbsp;<a href="./privacy1">https://www.applovin.com/privacy</a>
                                 </p>
                             </li>
@@ -425,7 +425,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     page:&nbsp;<a href="http://www.google.com/settings/ads">http://www.google.com/settings/ads</a>
                                 </p>
                                 <p>Google also recommends installing the Google Analytics Opt-out Browser
-                                    Add-on -&nbsp;<a href="./gaoptout">https://tools.google.com/dlpage/gaoptout</a>&nbsp;-
+                                    Add-on –&nbsp;<a href="./gaoptout">https://tools.google.com/dlpage/gaoptout</a>&nbsp;–
                                     for your web browser. Google Analytics Opt-out Browser Add-on provides
                                     visitors with the ability to prevent their data from being collected and
                                     used by Google Analytics.
@@ -440,7 +440,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                 <p>You can learn more about interest-based advertising from Facebook by
                                     visiting this page:&nbsp;<a href="./164968693837950">https://www.facebook.com/help/164968693837950</a>
                                 </p>
-                                <p>To opt-out from Facebook's interest-based ads, follow these
+                                <p>To opt-out from Facebook’s interest-based ads, follow these
                                     instructions from Facebook:<a href="./568137493302217">https://www.facebook.com/help/568137493302217</a>
                                 </p>
                                 <p>Facebook adheres to the Self-Regulatory Principles for Online Behavioural
@@ -452,7 +452,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                                     or opt-out using your mobile device settings.
                                 </p>
                                 <p>For more information on the privacy practices of Facebook, please visit
-                                    Facebook's Data Policy:&nbsp;<a href="./explanation">https://www.facebook.com/privacy/explanation</a>
+                                    Facebook’s Data Policy:&nbsp;<a href="./explanation">https://www.facebook.com/privacy/explanation</a>
                                 </p>
                             </li>
                         </ul>
@@ -483,13 +483,13 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         </ul>
                         <h4 className="mb-3 mt-3">Links to Other Sites</h4>
                         <p>Our Service may contain links to other sites that are not operated by us. If you
-                            click a third party link, you will be directed to that third party's site.
+                            click a third party link, you will be directed to that third party’s site.
                             We strongly advise you to review the Privacy Policy of every site you visit.
                         </p>
                         <p>We have no control over and assume no responsibility for the content, privacy
                             policies or practices of any third party sites or services.
                         </p>
-                        <h4 className="mb-3 mt-3">Children's Privacy</h4>
+                        <h4 className="mb-3 mt-3">Children’s Privacy</h4>
                         <p>Our Service does not address anyone under the age of 18 (“Children”).
                         </p>
                         <p>We do not knowingly collect personally identifiable information from anyone under
