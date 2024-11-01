@@ -22,7 +22,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                     <div className="">
                         <p>Effective date: November 10, 2020</p>
                         <p>Unipuzz Games. (“us”, “we”, or “our”)
-                            operates the monkidsstudio.com website and the Unipuzz Studio’ applications mobile
+                            operates the monkidsstudio.com website and the Unipuzz Games’ applications mobile
                             application (hereinafter referred to as the “Service”).
                         </p>
                         <p>This page informs you of our policies regarding the collection, use and
@@ -38,7 +38,7 @@ const PrivacyPolicy = ({ frontmatter }) => {
                         <ul>
                             <li>
                                 <strong>Service</strong>
-                                <p>Service means the Unipuzz Studio.com website and the Unipuzz Studio’
+                                <p>Service means the monkidsstudio.com website and the Unipuzz Games’
                                     applications mobile application operated by Unipuzz Games.
                                 </p>
                             </li>
